@@ -1,0 +1,554 @@
+:root { 
+  --black: #000000;
+  --brilliant-rose: #ef60a0;
+  --club-wyndham-white: #ffffff;
+  --coconut: #fefefe;
+  --eerie-black: #1f1f1f;
+  --electric-violet: #932ce7;
+  --gallery: #f0f0f0;
+  --onyx: #373737;
+  --seashell: #f1f1f1;
+ 
+  --font-size-l: 13px;
+  --font-size-m: 12px;
+  --font-size-s: 10px;
+  --font-size-xl: 15px;
+  --font-size-xs: 6.6px;
+  --font-size-xxl: 16px;
+  --font-size-xxxl: 22px;
+ 
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-founders_grotesk-light: "Founders Grotesk-Light", Helvetica;
+  --font-family-founders_grotesk-medium: "Founders Grotesk-Medium", Helvetica;
+  --font-family-geologica: "Geologica", Helvetica;
+  --font-family-geologica-black: "Geologica-Black", Helvetica;
+  --font-family-geologica-extralight: "Geologica-ExtraLight", Helvetica;
+  --font-family-geologica-extralightitalic: "Geologica-ExtraLightItalic", Helvetica;
+}
+.geologica-bold-eerie-black-14px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-light-eerie-black-16px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-bold-white-28-3px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 28.3px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-light-white-22px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-medium-eerie-black-25px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-bold-eerie-black-23-6px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 23.6px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-light-eerie-black-43px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-bold-eerie-black-28-3px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 28.3px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-medium-white-16-9px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 16.9px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-medium-white-15px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-bold-white-15-5px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 15.5px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.foundersgrotesk-medium-eerie-black-14px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-founders_grotesk-medium);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-medium-seashell-10px {
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-light-white-13px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-bold-brilliant-rose-26px {
+  color: var(--brilliant-rose);
+  font-family: var(--font-family-geologica);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-medium-white-21px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-bold-white-28-9px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 28.9px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-bold-eerie-black-52-8px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 52.8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-medium-eerie-black-17-9px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 17.9px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-medium-white-12px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-light-eerie-black-13px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-light-eerie-black-8-8px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 8.8px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-semi-bold-eerie-black-48-2px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 48.2px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-light-eerie-black-22px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-normal-eerie-black-14px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica-extralight);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.geologica-light-white-12-1px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 12.1px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-semi-bold-eerie-black-43px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-light-eerie-black-47-5px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 47.5px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-light-eerie-black-15px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-semi-bold-eerie-black-18px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-light-white-43px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-semi-bold-white-48-2px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 48.2px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-bold-onyx-58-1px {
+  color: var(--onyx);
+  font-family: var(--font-family-geologica);
+  font-size: 58.1px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-bold-white-58-1px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 58.1px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-semi-bold-white-27px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-light-white-12px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-light-eerie-black-30px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-medium-white-9-3px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 9.3px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-bold-gallery-28-9px {
+  color: var(--gallery);
+  font-family: var(--font-family-geologica);
+  font-size: 28.9px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-medium-eerie-black-21px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-medium-coconut-16-9px {
+  color: var(--coconut);
+  font-family: var(--font-family-geologica);
+  font-size: 16.9px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-light-eerie-black-14px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.geologica-semi-bold-eerie-black-47-5px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 47.5px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-bold-seashell-52-8px {
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 52.8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-medium-seashell-17-9px {
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 17.9px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-extra-bold-brilliant-rose-40px {
+  color: var(--brilliant-rose);
+  font-family: var(--font-family-geologica);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.geologica-medium-eerie-black-12px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.arial-regular-normal-eerie-black-13px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.geologica-semi-bold-white-30px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-bold-seashell-27-9px {
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 27.9px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-semi-bold-white-16px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-medium-white-13px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-semi-bold-eerie-black-30px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.geologica-medium-eerie-black-17px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-bold-seashell-29-5px {
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 29.5px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-bold-eerie-black-17px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-bold-eerie-black-11px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.foundersgrotesk-medium-white-10px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-founders_grotesk-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-medium-white-11-5px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 11.5px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-bold-white-15-9px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: 15.9px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-medium-eerie-black-13-7px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 13.7px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-bold-eerie-black-29px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-medium-eerie-black-9-8px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 9.8px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.geologica-bold-eerie-black-7-7px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 7.7px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-bold-eerie-black-13px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.geologica-medium-white-6-6px {
+  color: var(--club-wyndham-white);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}

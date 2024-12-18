@@ -1,0 +1,1554 @@
+/* screen - wwwy-vegasdesktop-w-autolayout */
+
+.wwwy-vegasdesktop-w-autolayout {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  overflow: hidden;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .nav {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 96px;
+  justify-content: center;
+  padding: 27px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.wwwy-vegasdesktop-w-autolayout .bar {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 30px;
+  display: flex;
+  gap: 252px;
+  height: 60px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 1332px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .wwwy_-main-logo-1 {
+  height: 33.73px;
+  object-fit: cover;
+  position: relative;
+  width: 131px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-1 {
+  height: 34px;
+  position: relative;
+  width: 616px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row {
+  gap: 48px;
+  height: 34px;
+  min-width: 610px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .packages {
+  letter-spacing: 0;
+  line-height: 33.8px;
+  min-height: 34px;
+  min-width: 160px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.wwwy-vegasdesktop-w-autolayout .destinations {
+  letter-spacing: 0;
+  line-height: 33.8px;
+  min-height: 34px;
+  min-width: 218px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.wwwy-vegasdesktop-w-autolayout .reviews {
+  letter-spacing: 0;
+  line-height: 33.8px;
+  min-height: 34px;
+  min-width: 135px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.wwwy-vegasdesktop-w-autolayout .vector {
+  height: 28px;
+  position: relative;
+  width: 28.02px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .header-image {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.wwwy-vegasdesktop-w-autolayout .get-it-before-its-gone-copy {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 108px;
+  justify-content: center;
+  padding: 11px 11px 67px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 529px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .h1 {
+  height: 189.29px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 533px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-col {
+  flex-direction: column;
+  min-height: 189px;
+  width: 529px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-4 {
+  align-items: flex-start;
+  background-color: var(--brilliant-rose);
+  border-radius: 9.07px;
+  display: flex;
+  height: 32px;
+  margin-left: 1.81px;
+  min-width: 285px;
+  padding: 5.1px 20.2px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .enjoy-every-exciting-extra {
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 16.1px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.wwwy-vegasdesktop-w-autolayout .get-it-before-its-gone {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 46px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.15px;
+  margin-top: 11px;
+  min-height: 53px;
+  white-space: nowrap;
+}
+
+.wwwy-vegasdesktop-w-autolayout .body {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 21px;
+  font-weight: 300;
+  letter-spacing: 0.22px;
+  line-height: 29.6px;
+  margin-top: 10px;
+  min-height: 83px;
+  width: 529px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .cta {
+  height: 114.98px;
+  margin-right: -2.58px;
+  position: relative;
+  width: 530.15px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .offer-detail {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 16.1px;
+  font-weight: 400;
+  left: 210px;
+  letter-spacing: 0.17px;
+  line-height: 23.0px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 93px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--electric-violet);
+  border-radius: 77.69px;
+  display: flex;
+  height: 79px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 526px;
+  padding: 22.0px 71.6px;
+  position: absolute;
+  top: 0;
+}
+
+.wwwy-vegasdesktop-w-autolayout .button {
+  color: var(--gallery);
+  font-family: var(--font-family-geologica);
+  font-size: 29.8px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 35px;
+  text-align: center;
+  white-space: nowrap;
+  width: 383px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .line-9 {
+  height: 374.18px;
+  margin-bottom: -2.32px;
+  margin-top: -2.32px;
+  position: relative;
+  width: 4.65px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 448px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .check-2 {
+  width: 267.04px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .address-1 {
+  left: 73px;
+  letter-spacing: 0.22px;
+  line-height: 29.6px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .check {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .check-3 {
+  width: 392.53px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .up-to-12-months-to-travel {
+  left: 73px;
+  letter-spacing: 0.22px;
+  line-height: 29.6px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 317px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .check-1 {
+  margin-right: -2.00px;
+  width: 450px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flexibility-to-adjust-trip-dates {
+  left: 73px;
+  letter-spacing: 0.22px;
+  line-height: 29.6px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 375px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .x200-ticket-cash {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 24.8px;
+  font-weight: 800;
+  left: 73px;
+  letter-spacing: 0.22px;
+  line-height: 22.3px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+  width: 375px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .image-slider-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 11px;
+  justify-content: center;
+  margin-left: -457.50px;
+  margin-right: -457.50px;
+  padding: 5px 273px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .image-slider {
+  flex-direction: column;
+  height: 326px;
+  position: relative;
+  width: 444px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .image {
+  border-radius: 12px;
+  height: 328px;
+  margin-bottom: -2.00px;
+  overflow: hidden;
+  position: relative;
+  transform: rotate(180deg);
+  width: 443px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group {
+  height: 324px;
+  left: 1px;
+  position: relative;
+  top: 3px;
+  width: 441px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .pink {
+  background-color: var(--brilliant-rose);
+  border: 3px solid;
+  border-color: var(--eerie-black);
+  border-radius: 18px;
+  height: 315px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .image-1 {
+  border: 3px solid;
+  border-color: var(--eerie-black);
+  border-radius: 12px;
+  height: 315px;
+  left: 9px;
+  overflow: hidden;
+  position: absolute;
+  top: 9px;
+  width: 432px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .x2022-01-03-3 {
+  height: 315px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 249px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .x2022-01-03 {
+  height: 315px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 432px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .x2022-01-03-4 {
+  height: 315px;
+  margin-left: 174px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 258px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .packages-1 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 41px;
+  justify-content: center;
+  padding: 53px 61px;
+  width: 100%;
+}
+
+.wwwy-vegasdesktop-w-autolayout .explore-more-your-next-getaway-awaits {
+  letter-spacing: -0.83px;
+  line-height: 49px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 1284.2px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .span {
+  letter-spacing: -0.36px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .packages-item {
+  height: 520px;
+  padding: 36px 0px;
+  width: 1312px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .all-things {
+  height: 520px;
+  margin-bottom: -36.00px;
+  margin-top: -36.00px;
+  position: relative;
+  width: 1310px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group2 {
+  height: 520px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .rectangle-4404 {
+  background-color: var(--brilliant-rose);
+  border: 3px solid;
+  border-radius: 24px;
+  height: 509px;
+  left: 11px;
+  top: 11px;
+  width: 1299px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .rectangle-4403 {
+  background-color: var(--coconut);
+  border: 3px solid;
+  border-radius: 19px;
+  height: 509px;
+  left: 0;
+  top: 0;
+  width: 1299px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .x-container {
+  height: 424px;
+  left: 36px;
+  position: absolute;
+  top: 46px;
+  width: 611px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .x2022-01-03-1 {
+  height: 412px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 599px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .x2022-01-03-2 {
+  height: 418px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 605px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 672px;
+  position: absolute;
+  top: 95px;
+  width: 604px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .bubble {
+  height: 35.87px;
+  position: relative;
+  width: 88.69px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-5 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 9.19px;
+  display: flex;
+  height: 36px;
+  min-width: 87px;
+  padding: 0 11.8px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .x-choice-of-destinations {
+  letter-spacing: 0;
+  line-height: 55px;
+  position: relative;
+  width: fit-content;
+}
+
+.wwwy-vegasdesktop-w-autolayout .address {
+  letter-spacing: 0.23px;
+  line-height: 31.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wwwy-vegasdesktop-w-autolayout .bullets {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  margin-right: -1.00px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .body-1 {
+  letter-spacing: 0.23px;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.wwwy-vegasdesktop-w-autolayout .body-2 {
+  letter-spacing: 0.23px;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 295.33px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group1-1 {
+  background-image: url(../img/vector-1.svg);
+  background-size: 100% 100%;
+  height: 144px;
+  left: 1123px;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 39px;
+  left: 14px;
+  min-width: 117px;
+  position: absolute;
+  top: 53px;
+  transform: rotate(10.57deg);
+}
+
+.wwwy-vegasdesktop-w-autolayout .price {
+  -webkit-text-stroke: 0.89px var(--seashell);
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 45.8px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 38.5px;
+  margin-left: -1px;
+  margin-top: -0.89px;
+  text-align: center;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .line-10 {
+  height: 38px;
+  left: 19px;
+  position: absolute;
+  top: 53px;
+  width: 106px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 672px;
+  position: absolute;
+  top: 73px;
+  width: 604px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .bubble-1 {
+  height: 35.87px;
+  position: relative;
+  width: 109.77px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-6 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 9.19px;
+  display: flex;
+  height: 36px;
+  min-width: 108px;
+  padding: 0 12.9px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .bullets-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 7px;
+  justify-content: center;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .body-3 {
+  letter-spacing: 0.23px;
+  line-height: 31px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 569.6px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .body-4 {
+  letter-spacing: 0.23px;
+  line-height: 31px;
+  position: relative;
+  width: 569.6px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group1-2 {
+  background-image: url(../img/vector-2.svg);
+  background-size: 100% 100%;
+  height: 144px;
+  left: 1123px;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 39px;
+  left: 4px;
+  min-width: 137px;
+  position: absolute;
+  top: 53px;
+  transform: rotate(10.57deg);
+}
+
+.wwwy-vegasdesktop-w-autolayout .price-1 {
+  -webkit-text-stroke: 0.89px var(--seashell);
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 45.8px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 38.5px;
+  margin-left: -1px;
+  margin-top: -0.89px;
+  text-align: center;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .slider {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.wwwy-vegasdesktop-w-autolayout .more-choices-more-a {
+  letter-spacing: -0.90px;
+  line-height: 49px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 1386.47px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .span-1 {
+  letter-spacing: -0.39px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .locations {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  justify-content: center;
+  margin-left: -561.85px;
+  margin-right: -561.85px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .austin-wwwy-1 {
+  height: 407.28px;
+  margin-bottom: -276.60px;
+  margin-right: -1775.43px;
+  position: relative;
+  width: 407.28px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .san-diego {
+  height: 407.28px;
+  position: relative;
+  width: 276.72px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .locations-item {
+  height: 407.28px;
+  position: relative;
+  width: 407.28px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .destin-wwwy-1 {
+  height: 407.28px;
+  position: relative;
+  width: 276.72px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .dc {
+  height: 407.28px;
+  margin-bottom: -276.60px;
+  margin-right: -3931.85px;
+  position: relative;
+  width: 407.28px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .cta-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 502px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .button-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 110px;
+  justify-content: center;
+  margin-left: -470.00px;
+  margin-right: -470.00px;
+  position: relative;
+  width: 1442px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .button-2 {
+  align-items: center;
+  background-color: var(--electric-violet);
+  border-radius: 60px;
+  display: flex;
+  gap: 8px;
+  height: 76px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px 22px;
+  position: relative;
+  width: 476px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-7 {
+  color: var(--gallery);
+  font-family: var(--font-family-geologica);
+  font-size: 27px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.wwwy-vegasdesktop-w-autolayout .what-to-expect-on-your {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 4px 103px;
+  position: relative;
+  width: 100%;
+}
+
+.wwwy-vegasdesktop-w-autolayout .left {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 644.29px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .headline-copy {
+  height: 96.01px;
+  position: relative;
+  width: 490px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .discounted-getaway {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .bubble-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 36px;
+  left: 2px;
+  min-width: 268px;
+  position: absolute;
+  top: 0;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-7 {
+  align-items: flex-end;
+  background-color: var(--brilliant-rose);
+  border-radius: 9.19px;
+  display: flex;
+  height: 36px;
+  min-width: 266px;
+  padding: 7.0px 18.2px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .photo {
+  height: 452.6px;
+  margin-bottom: -15.35px;
+  margin-left: -9.92px;
+  margin-right: -0.26px;
+  position: relative;
+  width: 654.46px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .right-bubbles {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  justify-content: center;
+  position: relative;
+  width: 501.21px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-1 {
+  height: 179px;
+  position: relative;
+  width: 501px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .rectangle-441 {
+  background-color: var(--brilliant-rose);
+  border: 3px solid;
+  border-radius: 23px;
+  height: 172px;
+  left: 8px;
+  top: 7px;
+  width: 493px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .rectangle-441-1 {
+  background-color: var(--coconut);
+  border: 3px solid;
+  border-color: var(--eerie-black);
+  border-radius: 18px;
+  height: 172px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 493px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .title {
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 19px;
+  width: 366px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .list-item-2 {
+  height: 179.36px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .list-item-3 {
+  height: 179.84px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group2-1 {
+  height: 180px;
+  position: relative;
+  width: 501px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .rectangle-4416 {
+  background-color: var(--brilliant-rose);
+  border: 3px solid;
+  border-radius: 23px;
+  height: 172px;
+  left: 8px;
+  top: 8px;
+  width: 493px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .we-put-the-world-on-vaca {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  justify-content: center;
+  padding: 23px 145px;
+  width: 100%;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  position: relative;
+  width: 412px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .brought-to-you-by {
+  background-color: var(--coconut);
+  border: 2.39px solid;
+  border-color: var(--brilliant-rose);
+  border-radius: 5.57px;
+  height: 43px;
+  position: relative;
+  width: 244px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .group-1000002046 {
+  align-items: center;
+  display: flex;
+  gap: 9px;
+  left: 8px;
+  min-width: 221px;
+  position: relative;
+  top: 7px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .brought-to-you-by-1 {
+  height: 15px;
+  letter-spacing: 0;
+  line-height: 14.9px;
+  margin-top: 2.34px;
+  text-align: right;
+  width: 126px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .wyn {
+  align-self: flex-end;
+  height: 24px;
+  margin-bottom: 0;
+  width: 84px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .we-put-the-world-on-vacation {
+  letter-spacing: 0;
+  line-height: 48.7px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .bursts {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .group-100000204 {
+  height: 221.86px;
+  position: relative;
+  width: 225.86px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-8 {
+  background-image: url(../img/vector-3.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: 23px;
+  position: relative;
+  top: 23px;
+  width: 176px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .text-1 {
+  left: 42px;
+  position: absolute;
+  top: 55px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .destinations-1 {
+  height: 38px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 37.4px;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group1-3 {
+  align-items: flex-start;
+  background-image: url(../img/vector-4.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 23px;
+  min-height: 176px;
+  padding: 41.7px 38.9px;
+  position: relative;
+  top: 23px;
+  width: 176px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .text-2 {
+  margin-top: 13px;
+  min-width: 97px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .hotel-partners {
+  align-self: center;
+  height: 35px;
+  letter-spacing: 0;
+  line-height: 17.1px;
+  margin-right: 0.24px;
+  min-width: 94px;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .group-1000002040 {
+  height: 221.86px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 225.86px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group2-2 {
+  align-items: flex-start;
+  background-image: url(../img/vector-5.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 23px;
+  min-height: 176px;
+  padding: 41.7px 19.4px;
+  position: relative;
+  top: 23px;
+  width: 176px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .happy-owners {
+  align-self: center;
+  height: 35px;
+  letter-spacing: 0;
+  line-height: 17.1px;
+  margin-right: 0.24px;
+  min-width: 81px;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .reviews-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 27px 50px 83px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .group-100000211 {
+  height: 319.68px;
+  position: relative;
+  width: 438.52px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-2 {
+  height: 320px;
+  position: relative;
+  width: 439px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-3 {
+  height: 320px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 439px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .rectangle-4407 {
+  background-color: var(--brilliant-rose);
+  border: 3px solid;
+  border-radius: 23px;
+  height: 311px;
+  left: 9px;
+  top: 9px;
+  width: 430px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .rectangle-4408 {
+  background-color: var(--coconut);
+  border: 2.5px solid;
+  border-radius: 18px;
+  height: 311px;
+  left: 0;
+  top: 0;
+  width: 430px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 29px;
+  position: absolute;
+  top: 36px;
+  width: 381px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .stars {
+  height: 16.2px;
+  position: relative;
+  width: 109.48px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .vacationing-on-active-duty {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 31.2px;
+  position: relative;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .club-wyndham-has-no {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .name {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.wwwy-vegasdesktop-w-autolayout .family-travel-tribe {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 31.2px;
+  position: relative;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .we-get-so-excited-a {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .creating-lasting-memories {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 31.2px;
+  position: relative;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .when-my-parents-bec {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .lets-start-planning {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 58px;
+  padding: 7px 108px;
+  position: relative;
+  width: 100%;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  position: relative;
+  width: 568.1px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .copy-10 {
+  height: 266.02px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 572.1px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 266px;
+  width: 568px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group-9 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 9.19px;
+  display: flex;
+  height: 36px;
+  margin-left: 2px;
+  min-width: 238px;
+  padding: 0 19.1px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .lets-start-planning-1 {
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 16.9px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 200px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .reach-out-to-us {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 47px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1px;
+  min-height: 59px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .our-team-cant-wait {
+  height: 155px;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-top: 15px;
+  width: 568px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .cta-2 {
+  height: 76.23px;
+  position: relative;
+  width: 539.75px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .overlap-group1-4 {
+  align-items: flex-start;
+  background-color: var(--electric-violet);
+  border: 3px solid;
+  border-color: var(--seashell);
+  border-radius: 70.39px;
+  display: flex;
+  height: 79px;
+  left: -2px;
+  min-width: 541px;
+  padding: 19.8px 32.9px;
+  position: relative;
+  top: -2px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .button-3 {
+  color: var(--seashell);
+  font-family: var(--font-family-geologica);
+  font-size: 27px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 34px;
+  min-width: 468px;
+  text-align: center;
+}
+
+.wwwy-vegasdesktop-w-autolayout .images {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  margin-right: -43.10px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .ferris-wheel {
+  height: 397px;
+  position: relative;
+  width: 203px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .fa-qs {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 59px;
+  padding: 70px 166px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.wwwy-vegasdesktop-w-autolayout .frequently-asked-questions {
+  letter-spacing: 0;
+  line-height: 48.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wwwy-vegasdesktop-w-autolayout .qs {
+  height: 752.65px;
+  position: relative;
+  width: 1105.01px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .all-other-qs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  min-height: 596px;
+  position: absolute;
+  top: 157px;
+  width: 1119px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .line-2 {
+  height: 1px;
+  width: 1105px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row-1 {
+  align-items: flex-start;
+  gap: 382px;
+  height: 35px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .vector-8 {
+  align-self: flex-end;
+}
+
+.wwwy-vegasdesktop-w-autolayout .line {
+  height: 1px;
+  margin-top: 24px;
+  width: 1105px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row-2 {
+  align-items: center;
+  gap: 606px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .vector-80 {
+  margin-top: 9.26px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .line-1 {
+  height: 1px;
+  margin-top: 25px;
+  width: 1105px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row-3 {
+  align-items: center;
+  gap: 725px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row-4 {
+  align-items: center;
+  gap: 25px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row-5 {
+  align-items: center;
+  gap: 90px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row-6 {
+  align-items: center;
+  gap: 481px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row-7 {
+  align-items: flex-start;
+  gap: 502px;
+  height: 35px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .question-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 47px;
+  height: 132px;
+  left: 0;
+  min-width: 1088px;
+  position: absolute;
+  top: 0;
+}
+
+.wwwy-vegasdesktop-w-autolayout .our-packages-are-off {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: 18px;
+  font-weight: 400;
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 11.0px;
+  width: 960px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .vector-803 {
+  margin-top: 14.14px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .legal {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: -0.96px;
+  margin-right: -0.96px;
+  padding: 34px 36px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .display-name-200-ti {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 1369.92px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .span-3 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-geologica);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+}
+
+.wwwy-vegasdesktop-w-autolayout .check-4 {
+  height: 56.42px;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .flex-row-8 {
+  display: flex;
+  margin-top: 25px;
+  min-width: 1085px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .image-2 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.wwwy-vegasdesktop-w-autolayout .list-item {
+  margin-right: -4.00px;
+  position: relative;
+  width: 505.21px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .packages-2 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.wwwy-vegasdesktop-w-autolayout .rectangle {
+  border-color: var(--eerie-black);
+  position: absolute;
+}
+
+.wwwy-vegasdesktop-w-autolayout .text {
+  height: 38px;
+  letter-spacing: 0;
+  line-height: 37.4px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.wwwy-vegasdesktop-w-autolayout .title-3 {
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+}
+
+.wwwy-vegasdesktop-w-autolayout .vector-1 {
+  height: 15px;
+  width: 26px;
+}
+
+.wwwy-vegasdesktop-w-autolayout .we-put-the-world-on {
+  align-self: stretch;
+  position: relative;
+}
